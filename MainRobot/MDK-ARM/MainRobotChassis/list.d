@@ -1,0 +1,12 @@
+mainrobotchassis\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+mainrobotchassis\list.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+mainrobotchassis\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+mainrobotchassis\list.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+mainrobotchassis\list.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+mainrobotchassis\list.o: ../Core/Inc/FreeRTOSConfig.h
+mainrobotchassis\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+mainrobotchassis\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+mainrobotchassis\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+mainrobotchassis\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+mainrobotchassis\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+mainrobotchassis\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

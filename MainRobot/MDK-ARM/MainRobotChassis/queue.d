@@ -1,0 +1,15 @@
+mainrobotchassis\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+mainrobotchassis\queue.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+mainrobotchassis\queue.o: E:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+mainrobotchassis\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+mainrobotchassis\queue.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+mainrobotchassis\queue.o: E:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+mainrobotchassis\queue.o: ../Core/Inc/FreeRTOSConfig.h
+mainrobotchassis\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+mainrobotchassis\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+mainrobotchassis\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+mainrobotchassis\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+mainrobotchassis\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+mainrobotchassis\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+mainrobotchassis\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+mainrobotchassis\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
